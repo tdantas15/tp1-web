@@ -1,7 +1,11 @@
-#html {
+html {
 	font-family: "Freight Sans","Verdana","Geneva",sans-serif;
 }
 
 ul{
 	list-style-type: none;
+}
+
+body {
+	overflow-x: hidden;
 }
