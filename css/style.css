@@ -1,3 +1,7 @@
-#inicial {
-	margin-top:50px;
+#html {
+	font-family: "Freight Sans","Verdana","Geneva",sans-serif;
+}
+
+ul{
+	list-style-type: none;
 }
