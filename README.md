@@ -1,2 +1,5 @@
 # tp1-web
-tp1 de programação web
+Trabalho Prático de Programação Web
+CEFET-MG
+
+Aluno: Talles Rafael Soares Dantas
