@@ -11,6 +11,10 @@ h3 {
 	font-family: 'Ubuntu Condensed', sans-serif;
 }
 
-p {
-	font-family: 'Sacramento', cursive;
+#esponja {
+	width: 120px;
+}
+
+blockquote {
+	border-left:0px;
 }
