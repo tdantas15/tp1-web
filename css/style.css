@@ -22,3 +22,8 @@ blockquote {
 .img-projeto {
 	cursor: pointer;
 }
+#chartdiv {
+	width		: 75%;
+	height		: 300px;
+	font-size	: 11px;
+}				
